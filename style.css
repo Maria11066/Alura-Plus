@@ -100,8 +100,13 @@ color: var(--branco-principal);
 }
 .rodape-lista{
     display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 1em 0;
 }
-.rodape-logo{
-
+.rodape{
+text-align: center;
 }
-.
+.rodape-texto{
+    margin: 1em 0;
+}
