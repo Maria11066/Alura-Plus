@@ -1,7 +1,7 @@
 :root{
     --branco-principal:#FFFFFF;
     --cinza-secundario:#c0c0c0;
-    --botao-azul:#c7c7c7;
+    --botao-azul:#006fd6;
     --cor-de-fundo:#00030c;
     --fonte-principal:'Inter';    
     }  
@@ -109,4 +109,7 @@ text-align: center;
 }
 .rodape-texto{
     margin: 1em 0;
+}
+.lista-link{
+
 }
